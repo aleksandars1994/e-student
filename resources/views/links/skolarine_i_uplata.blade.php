@@ -12,7 +12,7 @@
                         </div>
                     @endif
 
-                    Skolarine i uplate
+                    Skolarine i uplate i jos po nesto
                 </div>
             </div>
         </div>

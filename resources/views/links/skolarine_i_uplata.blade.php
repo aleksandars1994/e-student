@@ -12,7 +12,7 @@
                         </div>
                     @endif
 
-                    Trenutno nema obavestenja
+                    Skolarine i uplate
                 </div>
             </div>
         </div>

@@ -6,13 +6,19 @@
                 <div class="card-header">Prijava ispita</div>
 
                 <div class="card-body">
-                    @if (session('status'))
-                        <div class="alert alert-success" role="alert">
-                            {{ session('status') }}
-                        </div>
-                    @endif
-
-                    Trenutno nema obavestenja
+                    <table class="table">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th scope="col">   </th>
+                                    <th scope="col">Sifra</th>
+                                    <th scope="col">Naziv</th>
+                                    <th scope="col">N.GR</th>
+                                    <th scope="col">ESPB</th>
+                                    <th scope="col">Br.prijava</th>
+                                    <th scope="col">Nastavnik</th>
+                                </tr>
+                            </thead>
+                        </table>
                 </div>
             </div>
         </div>

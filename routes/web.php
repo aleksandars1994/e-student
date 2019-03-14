@@ -29,9 +29,6 @@ Route::get('/home/biranje_predmeta',function(){
 Route::get('/home/ispiti',function(){
 	return view('links.ispiti');
 });
-Route::get('/home/moje_obaveze',function(){
-	return view('links.moje_obaveze');
-});
 Route::get('/home/moji_predmeti',function(){
 	return view('links.moji_predmeti');
 });

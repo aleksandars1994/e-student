@@ -21,7 +21,6 @@
                         <li class="list-group-item"><a href="/home/aktivnosti" class="stretched-link">Aktivnosti</a></li>
                         <li class="list-group-item"><a href="/home/moji_predmeti" class="stretched-link">Moji predmeti</a></li>
                         <li class="list-group-item"><a href="/home/biranje_predmeta" class="stretched-link">Biranje predmeta</a></li>
-                        <li class="list-group-item"><a href="/home/moje_obaveze" class="stretched-link">Obaveze</a></li>
                         <li class="list-group-item"><a href="/home/skolarine_i_uplata" class="stretched-link">Skolarine i uplate</a></li>
                         <li class="list-group-item"><a href="/home/administracija" class="stretched-link">Administracija</a></li>
                     </ul>
